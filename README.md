@@ -26,14 +26,14 @@ Welcome to the **MS Azure Days — Fabric Hackathon** attendee repository! This 
 
 All hackathon guides are located in the [`Documents/`](Documents/) folder. Here's a quick-access index:
 
-| # | Document | Description |
-|---|----------|-------------|
-| 0 | [Intro](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%200%20-%20Intro.pdf) | Hackathon overview, prerequisites, and setup |
-| 0 | [Architecture](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%200%20-%20Architecture.pdf) | Solution architecture and design reference |
-| 1 | [Goal 1](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%201.pdf) | First hackathon challenge |
-| 2 | [Goal 2](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%202.pdf) | Second hackathon challenge |
-| 3 | [Goal 3](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) | Third hackathon challenge |
-| 4 | [Goal 4](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) | Fourth hackathon challenge |
+| Document | Description |
+|----------|-------------|
+| [Intro](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%200%20-%20Intro.pdf) | Hackathon overview, prerequisites, and setup |
+| [Architecture](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%200%20-%20Architecture.pdf) | Solution architecture and design reference |
+| [Goal 1](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%201.pdf) | First hackathon challenge |
+| [Goal 2](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%202.pdf) | Second hackathon challenge |
+| [Goal 3](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) | Third hackathon challenge |
+| [Goal 4](Documents/MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) | Fourth hackathon challenge |
 
 > **Tip:** See the [Documents README](Documents/README.md) for a detailed guide to navigating the documentation.
 
