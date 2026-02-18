@@ -19,12 +19,12 @@ Start here before diving into the goals:
 
 Complete these challenges in order:
 
-| Goal | Document | Status |
-|------|----------|--------|
-| Goal 1 | [MS Azure Days Fabric Hackathon - Goal 1](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%201.pdf) | ⬜ Not Started |
-| Goal 2 | [MS Azure Days Fabric Hackathon - Goal 2](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%202.pdf) | ⬜ Not Started |
-| Goal 3 | [MS Azure Days Fabric Hackathon - Goal 3](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) | ⬜ Not Started |
-| Goal 4 | [MS Azure Days Fabric Hackathon - Goal 4](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) | ⬜ Not Started |
+| Goal | Document |
+|------|----------|
+| Goal 1 | [MS Azure Days Fabric Hackathon - Goal 1](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%201.pdf) |
+| Goal 2 | [MS Azure Days Fabric Hackathon - Goal 2](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%202.pdf) |
+| Goal 3 | [MS Azure Days Fabric Hackathon - Goal 3](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) |
+| Goal 4 | [MS Azure Days Fabric Hackathon - Goal 4](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) |
 
 > Update the **Status** column as you progress: ⬜ Not Started → 🔄 In Progress → ✅ Complete
 
