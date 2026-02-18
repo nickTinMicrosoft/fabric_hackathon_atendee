@@ -26,7 +26,6 @@ Complete these challenges in order:
 | Goal 3 | [MS Azure Days Fabric Hackathon - Goal 3](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%203.pdf) |
 | Goal 4 | [MS Azure Days Fabric Hackathon - Goal 4](MS%20Azure%20Days%20Fabric%20Hackathon%20-%20Goal%204.pdf) |
 
-> Update the **Status** column as you progress: ⬜ Not Started → 🔄 In Progress → ✅ Complete
 
 ---
 
